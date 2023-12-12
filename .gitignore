@@ -1,7 +1,10 @@
 .vercel
 *.log
 *.pyc
-__pycache__
+__pycache__/
+*.pyc
+*/*.pyc
+*/*/*.pyc
 db.sqlite3
 media
 
